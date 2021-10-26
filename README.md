@@ -4,3 +4,4 @@ Esu niekas
 # pist koda
 # kodas
 #alio
+#kurmis
