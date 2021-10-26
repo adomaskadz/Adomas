@@ -1,0 +1,2 @@
+# Adomas
+Esu niekas
